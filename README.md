@@ -1,4 +1,4 @@
 # RESUME-PP
-This my first resume-pp
+This is my first resume-app
 
 Second is redy
